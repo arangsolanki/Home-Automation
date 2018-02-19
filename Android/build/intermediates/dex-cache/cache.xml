@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/apple/AndroidStudioProjects/HomeAutomation/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/apple/AndroidStudioProjects/HomeAutomation/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_187baa46a6afded66d3e63139227534227c1387f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/AndroidStudioProjects/HomeAutomation/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b0ecb37bb8a645487910e3f7aa9498cc7ff70e0">
+        <dex dex="/Users/apple/AndroidStudioProjects/HomeAutomation/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b19164e72392fc94936d16c53eedd016bc37c478/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/apple/AndroidStudioProjects/HomeAutomation/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_e318c25c89e4efb38b25b20d7d71d43e5ba34206/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/.android/build-cache/31ed8f73d9626e2007139d43bd1a341896607b53/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/apple/AndroidStudioProjects/HomeAutomation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6fad86f2293f9d8b26b844d60d702122eafd71a7/classes.dex" />
+    </item>
+
+</items>
